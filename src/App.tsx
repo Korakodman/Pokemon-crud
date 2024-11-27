@@ -49,7 +49,6 @@ function App() {
             }}>ต่อไป</button>
           </a>
         </div>
-
       </div>
     </div>
   );
